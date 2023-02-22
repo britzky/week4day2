@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "movie_theatre_db",
+            "connectString": "postgres://qakcagfn:Po9ek725EmW69nm99MOXKzwJiio8wqTs@suleiman.db.elephantsql.com/qakcagfn"
+        }
+    ]
+}
